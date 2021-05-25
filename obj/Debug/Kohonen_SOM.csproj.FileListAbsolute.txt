@@ -1,0 +1,14 @@
+C:\Users\mrter\Desktop\2021-Bahar\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe.config
+C:\Users\mrter\Desktop\2021-Bahar\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe
+C:\Users\mrter\Desktop\2021-Bahar\Kohonen_SOM\bin\Debug\Kohonen_SOM.pdb
+C:\Users\mrter\Desktop\2021-Bahar\Kohonen_SOM\obj\Debug\Kohonen_SOM.csprojAssemblyReference.cache
+C:\Users\mrter\Desktop\2021-Bahar\Kohonen_SOM\obj\Debug\Kohonen_SOM.csproj.CoreCompileInputs.cache
+C:\Users\mrter\Desktop\2021-Bahar\Kohonen_SOM\obj\Debug\Kohonen_SOM.exe
+C:\Users\mrter\Desktop\2021-Bahar\Kohonen_SOM\obj\Debug\Kohonen_SOM.pdb
+C:\Users\mrter\Desktop\2021-Bahar\YapayZeka_AraSinav\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe.config
+C:\Users\mrter\Desktop\2021-Bahar\YapayZeka_AraSinav\Kohonen_SOM\bin\Debug\Kohonen_SOM.exe
+C:\Users\mrter\Desktop\2021-Bahar\YapayZeka_AraSinav\Kohonen_SOM\bin\Debug\Kohonen_SOM.pdb
+C:\Users\mrter\Desktop\2021-Bahar\YapayZeka_AraSinav\Kohonen_SOM\obj\Debug\Kohonen_SOM.csprojAssemblyReference.cache
+C:\Users\mrter\Desktop\2021-Bahar\YapayZeka_AraSinav\Kohonen_SOM\obj\Debug\Kohonen_SOM.csproj.CoreCompileInputs.cache
+C:\Users\mrter\Desktop\2021-Bahar\YapayZeka_AraSinav\Kohonen_SOM\obj\Debug\Kohonen_SOM.exe
+C:\Users\mrter\Desktop\2021-Bahar\YapayZeka_AraSinav\Kohonen_SOM\obj\Debug\Kohonen_SOM.pdb
